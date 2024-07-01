@@ -1,0 +1,96 @@
+
+<html>
+<head><title>Suma.html</title>
+
+<center><img src="Encabezado.png" width="80%"></center><br>
+<p><font color="black" size="4" face="tahoma"><center>COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO. PLANTEL IXTLAHUACA IXTLAHUACA </center></font></p>
+
+<p><font color="black" size="3" face="tahoma"><center><strong>Elaborado por:</strong> Melissa Jaqueline Martínez Mireles
+<strong>Grupo:</strong>404. <strong>Numero de lista:18</strong><br>
+<strong>Fecha de elaboración:</strong> 7 de marzo de 2024.<strong> Hora:</strong>8:30 a.m.
+
+<p><font color="black" size="4" face="tahoma"><center><strong>Suma de dos números en HTML</strong></center><br>
+
+<script>
+function sumar(){
+var n1=parseInt(document.MyForm.txtNumero1.value);
+var n2=parseInt(document.MyForm.txtNumero2.value);
+document.MyForm.txtResultado.value=n1+n2;
+}
+</script>
+
+<script>
+function restar(){
+var n1=parseInt(document.MyForm.txtNumero1.value);
+var n2=parseInt(document.MyForm.txtNumero2.value);
+document.MyForm.txtResultado.value=n1-n2;
+}
+</script>
+
+<script>
+function multiplicar(){
+var n1=parseInt(document.MyForm.txtNumero1.value);
+var n2=parseInt(document.MyForm.txtNumero2.value);
+document.MyForm.txtResultado.value=n1*n2;
+}
+</script>
+
+<script>
+function dividir(){
+var n1=parseInt(document.MyForm.txtNumero1.value);
+var n2=parseInt(document.MyForm.txtNumero2.value);
+document.MyForm.txtResultado.value=n1/n2;
+}
+</script>
+
+<body>
+<center><table width="80%" border="1">
+<form name="MyForm">
+<tr>
+<td width="300"><label>Dame el 1er numero:</label></td>
+<td width="300"><input type="text" name="txtNumero1"></td>
+<td width="200" rowspan="4"></td>
+</tr>
+
+<tr>
+<td><label>Dame el 2do numero:</label></td>
+<td><input type="text" name="txtNumero2"></td>
+</tr>
+
+<tr>
+<td><label>Mostrar resultado:</label></td>
+<td><input type="text" name="txtResultado"></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center"><input type="button" value="SUMA" onclick="sumar()">
+<input type="button" value="RESTA" onclick="restar()">
+<input type="button" value="MULTIPLICACIÓN" onclick="multiplicar()">
+<input type="button" value="DIVICIÓN" onclick="dividir()"></td>
+</tr>
+</form>
+</table>
+</body>
+<center><img src="pie.png"width="80%" height="50" alt="Calendario Escolar.html"></br></center><center><font size="0">Todos los derechos reservados. Elaborado por:melissa Jaqueline Martinez Mireles. Tel:712560690,meli0506mm@gmail.com.Página web:www.caratula.gob.mx se recomienda usar google<font size="0"></center></p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
