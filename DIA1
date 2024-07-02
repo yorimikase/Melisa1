@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIA1</title>
+</head>
+<body>
+<center>
+    <table border="1">
+        <tr>
+            <td colspan=8"><a href="menu.html">
+              </a></td>
+        </tr>
+        <tr>
+            <td width="1000" colspan="3"><img src="Encabezado.png" width="1200"></td>
+        </tr>
+        <tr>
+            <td>
+               <center><h3><font color="red" size="5"> ¿Y SI HOY COMEMOS Y BEBEMOS
+                ¿ALGO DIFERENTE? </font></h3></center> 
+               <center><p>
+                En cada territorio y temporada se producen ciertos alimentos; sin embargo, <br>en nuestros días la comida viaja de un
+lugar a otro de modo que ahora mismo alguien en China podría estar comiendo uno de los deliciosos limones de
+Martínez del Río, Veracruz. <br> Seguramente tu cuerpo y antojo agradecen que esto suceda; no obstante, el mundo lo
+padece ya que la transportación genera una gran cantidad gases de efecto invernadero. 
+<br>
+La mejor forma de nutrir tu cuerpo territorio, tu comunidad territorio y el territorio mundo es consumiendo<br>
+alimentos locales y de temporada:<br>con ello se ahorra energía al no necesitar que el producto viaje grandes distancias para su comercialización, <br> así, nos aseguramos de llevar una dieta sana, nutritiva y equilibrada, además de
+apoyar al comercio local, <br> y finalmente ¡todos nuestros territorios estarán bien nutridos!
+
+               </p></center>
+               <center><h5>DE AQUÍ UNA JARRA DEL BUEN BEBER</h5></center>
+            </td>
+        </tr>
+        <tr>
+           
+          <center> <td width="700" colspan="3"><center><img src="dia.jpeg" width="500"></center></td></center> 
+        </tr>
+        <tr>
+            <td colspan="3"  style="background-color: #ffffff;"  height="54" >
+
+                <marquee direction="up" scrollamount="2" scrolldelay="2" behavior="alternate">
+          <marquee> <center><img src="pie.png"width="850" height="45" alt="Caratula.html" ></marquee></center>
+       </marquee>
+       <p><center><font size="1">Todos los derechos reservados. Elaborado por: Melissa Jaqueline Martínez Mireles,Tel:5536510533 ,Email:meli0506mm@gmail.com,<br>Página web:www.caratula.gob.mx,Domicilio: desconocido<font size="1"></center></p>
+          
+  </td></center>
+        </tr>
+        </table>
+</center>
+</body>
+</html>
